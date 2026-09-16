@@ -45,16 +45,23 @@ project:
     - pattern: posts/*.md
       hidden: true
 site:
+  nav:
+    - title: Internal blog page
+      url: /blog
   options:
     logo: logo.png
     logo_dark: logo.png
     favicon: fav.ico
     folders: true
     style: custom.css
+    style: ./css/footer.css
     # analytics_google: G-XXX
+    hide_toc: true
   actions:
     - title: RSS
       url: https://opengeos.org/myst-website-template/rss.xml
   template: book-theme
   parts:
     primary_sidebar_footer: ''
+    banner: Updates will be released soon!
+    footer: footer.md
