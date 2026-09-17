@@ -56,7 +56,7 @@ site:
     style: custom.css
     style: ./css/footer.css
     # analytics_google: G-XXX
-    hide_toc: true
+    # hide_toc: true
   actions:
     - title: RSS
       url: https://opengeos.org/myst-website-template/rss.xml
