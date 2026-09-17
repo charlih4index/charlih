@@ -47,7 +47,7 @@ jobs:
         # Remove BASE_URL if using a custom domain (CNAME)
         # env:
          # BASE_URL: /${{ github.event.repository.name }}
-        # run: myst build --html
+        run: myst build --html
 
       - name: Generate RSS and Atom feeds
         run: python generate_rss.py
