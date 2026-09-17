@@ -5,7 +5,7 @@ project:
     - name: "Charlih Chen"
       email: "charlih_chen@hotmail.com"
       affiliations: "IT Helpdesk, Fortinet"
-  copyright: '2026'
+  copyright: "©2026 Charlih Chen"
   exclude:
     - _build
     - Thumbs.db
