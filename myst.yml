@@ -55,8 +55,7 @@ site:
     logo_dark: logo.png
     favicon: fav.ico
     folders: true
-    style: custom.css
-    style: ./css/footer.css
+    style: custom.css    
     # analytics_google: G-XXX
     # hide_toc: true
   actions:
@@ -68,3 +67,4 @@ site:
     banner: Updates will be released soon!
     # footer: footer.md
     footer: Charlih Chen (c) 2026
+    # style: ./css/footer.css
