@@ -1,8 +1,10 @@
 version: 1
 project:
   title: Charlih Chen personal website
-    - authors: Charlih Chen
-    - name: Charlih Chen
+  authors:
+    - name: "Charlih Chen"
+      email: "charlih_chen@hotmail.com"
+      affiliations: "IT Helpdesk, Fortinet"
   copyright: '2026'
   exclude:
     - _build
