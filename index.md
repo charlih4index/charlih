@@ -5,7 +5,7 @@ subtitle: Subtitle of the book
 
 ## Introduction
 
-Welcome to the official repository for _**Website Title**_. This repository contains all the code examples featured in the book.
+Welcome to my _**Website Title**_. This website contains my personal info..
 
 ---
 
