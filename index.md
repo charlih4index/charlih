@@ -5,7 +5,7 @@ subtitle: Subtitle
 
 ## Introduction
 
-Welcome to my _**Website Title**_. This website contains my personal info..
+Welcome to my _**Personal Website**_. This website contains my personal info..
 
 ---
 
