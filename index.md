@@ -1,6 +1,6 @@
 ---
-title: Website Title
-subtitle: Subtitle of the book
+title: Charlih Chen personal website
+subtitle: Subtitle
 ---
 
 ## Introduction
