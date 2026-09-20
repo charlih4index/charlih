@@ -8,6 +8,10 @@ subtitle: Subtitle
 Welcome to my _**Personal Website**_. This website contains my personal info..
 
 ---
+# Bookmarks Toolbar
+
+News | Blog | About me
+
 
 ## Featured Projects
 
