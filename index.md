@@ -10,8 +10,18 @@ Welcome to my _**Personal Website**_. This website contains my personal info..
 ---
 # Bookmarks Toolbar
 
-News | Blog | About me
+News | Blog | Events | KTV | EV | AI | Shop | Game | Dog | About | Social | Search | Menu
 
+## Sub-Bookmarks
+
+EV - Tesla
+AI - ChatGPT
+AI - OpenAI
+Shop - Costco
+Game - Pokemon GO
+Game - Microsoft Xbox
+Game - Sony PlayStation
+Game - Nintendo - Switch
 
 ## Featured Projects
 
