@@ -15,12 +15,19 @@ News | Blog | Events | KTV | EV | AI | Shop | Game | Dog | About | Social | Sear
 ## Sub-Bookmarks
 
 EV - Tesla
+
 AI - ChatGPT
+
 AI - OpenAI
+
 Shop - Costco
+
 Game - Pokemon GO
+
 Game - Microsoft Xbox
+
 Game - Sony PlayStation
+
 Game - Nintendo - Switch
 
 ## Featured Projects
