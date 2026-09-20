@@ -30,6 +30,14 @@ Game - Sony PlayStation
 
 Game - Nintendo Switch
 
+Social - Facebook
+
+Social - YouTube
+
+Social - Instagram
+
+Social - Telegram
+
 ## Featured Projects
 
 ::::{grid} 2 2 4 4
