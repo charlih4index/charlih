@@ -28,7 +28,7 @@ Game - Microsoft Xbox
 
 Game - Sony PlayStation
 
-Game - Nintendo - Switch
+Game - Nintendo Switch
 
 ## Featured Projects
 
