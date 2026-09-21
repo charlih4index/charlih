@@ -30,8 +30,17 @@ If you configure a custom domain (via CNAME), remove AKA using # to mark the BAS
 
 charlihchen/charlih/CNAME : charlih.com
 
-#
-#
+charlihchen/charlih/.gitHub/workflows/deploy.yml
+
+'''
+.....
+      - name: Build HTML Assets
+        # Remove BASE_URL if using a custom domain (CNAME)
+        # env:
+         # BASE_URL: /${{ github.event.repository.name }}
+        run: myst build --html
+.....
+'''
 
 ## Q2: Why there is no Banner, Primary Sidebar, Secondary Sidebar, Website Header, Website Footer section areas?
 ## A2:
