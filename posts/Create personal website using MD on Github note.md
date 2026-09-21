@@ -47,4 +47,4 @@ charlihchen/charlih/.gitHub/workflows/deploy.yml
 
 Have to enable the personal website repository on Github from "Settings" >> "Pages" >> select "GitHub Actions" under "Build and deployment" section
 
-
+"Re-run jobs" from deploy shows in red color. To fix all error and "Re-run job" till no error email to you.
