@@ -24,9 +24,9 @@ keywords:
 
 ## Q1: The custom domain via CNAME is not working even updated the DNS on purchased rpovider?
 
-## A1: If you configure a custom domain (via CNAME), remove AKA using # to mark the BASE_URL environment variable from deploy.yml
+## A1: 
 
-Have to enable 
+If you configure a custom domain (via CNAME), remove AKA using # to mark the BASE_URL environment variable from deploy.yml 
 
 ## Q2: Why there is no Banner, Primary Sidebar, Secondary Sidebar, Website Header, Website Footer section areas?
 ## A2:
