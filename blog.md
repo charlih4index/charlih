@@ -25,6 +25,12 @@ description: A blog about data science, open-source software, and teaching, powe
 April 15, 2026 - A step-by-step tutorial on writing journal articles in MyST Markdown with automatic PDF generation and website deployment using a GitHub template.
 :::
 
+:::{card} Write Journal Articles with MyST Markdown: Auto-Generate PDFs and Websites
+:link: /posts/myst-article-template
+:header: ![thumbnail](https://img.youtube.com/vi/iwL-s7aPNYQ/maxresdefault.jpg)
+April 15, 2026 - A step-by-step tutorial on writing journal articles in MyST Markdown with automatic PDF generation and website deployment using a GitHub template.
+:::
+
 :::{card} Build a Professional CV Website with Auto PDF Generation Using MyST Markdown
 :link: /posts/myst-cv-website
 :header: ![thumbnail](https://img.youtube.com/vi/KiceHVININs/maxresdefault.jpg)
