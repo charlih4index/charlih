@@ -1,28 +1,28 @@
 ---
-title: "Create personal website using MD on Github note"
+title: "Create personal website using MD on GitHub note"
 date: 2026-09-20
 authors:
   - name: Charlih Chen
     email: charlih_chen@hotmail.com
     orcid: 0000-0001-5437-4073
     url: https://charlih.com
-description: Create personal website using MD on Github note.
+description: Create personal website using MD on GitHub note.
 thumbnail: https://charlih.com/thumbnail/thumbnail1.jpg
 tags:
   - MyST Markdown
-  - GitHub Template
+  - GitHub Note
   - GitHub Actions
-  - Pre-commit
+  - Personal website
 keywords:
   - MyST Markdown
-  - GitHub Template
+  - GitHub Note
   - GitHub Actions
-  - Pre-commit
+  - Personal website
 ---
 
-# Create personal website using MD on Github note
+# Create personal website using MD on GitHub note
 
-## Q1: The custom domain via CNAME is not working even updated the DNS on purchased povider?
+## Q1: The custom domain via CNAME is not working even updated the DNS on purchased provider?
 
 ## A1: 
 
