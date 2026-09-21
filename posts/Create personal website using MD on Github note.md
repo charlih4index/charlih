@@ -32,7 +32,7 @@ charlihchen/charlih/CNAME : charlih.com
 
 charlihchen/charlih/.gitHub/workflows/deploy.yml
 
-```fix
+```ini
 .....
       - name: Build HTML Assets
         # Remove BASE_URL if using a custom domain (CNAME)
