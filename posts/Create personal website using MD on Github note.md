@@ -20,7 +20,7 @@ keywords:
   - Pre-commit
 ---
 
-# Note for Building Websites with MyST Markdown on Github
+# Create personal website using MD on Github note
 
 ## Q1: The custom domain via CNAME is not working even updated the DNS on purchased povider?
 
