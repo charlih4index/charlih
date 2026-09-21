@@ -28,7 +28,12 @@ keywords:
 
 If you configure a custom domain (via CNAME), remove AKA using # to mark the BASE_URL environment variable from deploy.yml 
 
+charlihchen/charlih/CNAME : charlih.com
+
+#
+#
+
 ## Q2: Why there is no Banner, Primary Sidebar, Secondary Sidebar, Website Header, Website Footer section areas?
 ## A2:
 
-Have to enable 
+Have to enable Github's from Setting
