@@ -20,7 +20,7 @@ description: A blog about data science, open-source software, and teaching, powe
 ::::{grid} 1 1 2 2
 
 :::{card} Create personal website using MD on Github note: Personal website setup notes
-:link: posts/Create personal website using MD on Github note.md
+:link: posts/Create personal website using MD on Github note
 :header: 
 September 20, 2026 - Create personal website using MD on Github note.
 :::
