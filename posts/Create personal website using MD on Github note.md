@@ -45,6 +45,6 @@ charlihchen/charlih/.gitHub/workflows/deploy.yml
 ## Q2: Why there is no Banner, Primary Sidebar, Secondary Sidebar, Website Header, Website Footer section areas?
 ## A2:
 
-Have to enable the personal website repository on Github from "**Settings**" >> "**Pages**" >> select "**GitHub Actions**" under "Build and deployment" section
+Have to enable the personal website repository on GitHub from "**Settings**" >> "**Pages**" >> select "**GitHub Actions**" under "Build and deployment" section
 
 "**Re-run jobs**" from deploy shows in red color. To fix all error and "**Re-run job**" till no error email to you.
