@@ -22,8 +22,13 @@ keywords:
 
 # Note for Building Websites with MyST Markdown on Github
 
-## Q2: Why there is no sides, header, booter section area?
+## Q1: The custom domain via CNAME is not working even updated the DNS on purchased rpovider?
 
+## A1: If you configure a custom domain (via CNAME), remove AKA using # to mark the BASE_URL environment variable from deploy.yml
+
+Have to enable 
+
+## Q2: Why there is no Banner, Primary Sidebar, Secondary Sidebar, Website Header, Website Footer section areas?
 ## A2:
 
 Have to enable 
