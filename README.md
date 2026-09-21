@@ -1,94 +1,86 @@
-# MyST Website Template
+# Hi there, I'm Charlih Chen👋 
 
-A reusable template for building websites with [MyST Markdown](https://mystmd.org/) and automated deployment via GitHub Actions.
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+[![Website](https://img.shields.io/website?label=charlih.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://charlih.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/charlihchen?color=1DA1F2&logo=x&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2charlihchen&screen_name=charlihchen)
 
-## Features
+## I'm an IT Engineer.
 
-- **MyST Markdown** source format with Jupyter notebook integration
-- **GitHub Pages** deployment on push to `main`
-- **Netlify PR previews** for pull request review
-- **Pre-commit hooks**: Black, codespell, nbstripout for code quality
+- 🌱 I’m currently learning everything
+- ⚡ Fun fact: I love to play tennis
 
-## Quick Start
+### Connect with me:
 
-1. Click **Use this template** on GitHub to create a new repository
-2. Update `myst.yml` with your site title, author, and table of contents
-3. Replace placeholder content in `pages/` with your own pages
-4. Push to GitHub to trigger automated builds
+[![website](./img/globe-light.svg)](https://charlih.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://charlihchen#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://youtube.com/charlihchen#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/charlihchen#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/charlihchen#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/charlihchen#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/charlihchen#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/charlihchen#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/charlihchen#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/charlihchen#gh-dark-mode-only)
 
-## Project Structure
+### Languages and Tools:
 
-```
-.
-├── myst.yml                    # MyST configuration
-├── index.md                    # Landing page
-├── requirements.txt            # Python dependencies
-├── logo.png                    # Site logo
-├── fav.ico                     # Favicon
-├── CNAME                       # Custom domain (optional)
-├── robots.txt                  # Search engine directives
-├── pages/                      # Site content
-│   ├── preface.md
-│   ├── part01/
-│   │   ├── getting-started.md
-│   │   └── installation.md
-│   ├── part02/
-│   │   └── first-example.md
-│   ├── references.bib          # Bibliography
-│   ├── jupytext.toml
-│   └── images/                 # Shared images
-├── .pre-commit-config.yaml     # Pre-commit hook configuration
-├── CONTRIBUTING.md              # Contribution guidelines
-├── CONDUCT.md                   # Code of conduct
-└── .github/workflows/
-    ├── build.yml               # PR preview builds (Netlify)
-    └── deploy.yml              # Production deployment (GitHub Pages)
-```
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 
-## Customization
+<br />
+<br />
 
-### Site Metadata
+---
 
-Edit `myst.yml`:
-- `project.title`: your site title
-- `project.authors`: author name(s)
-- `project.github`: your GitHub `username/repo`
-- `project.toc`: table of contents structure
+### 📺 Latest YouTube Videos
 
-### Adding Pages
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
-1. Create a new `.md` file in the appropriate `pages/` subdirectory
-2. Add the file to `project.toc` in `myst.yml`
+➡️ [more videos...](https://www.youtube.com/@CharlihChen)
 
-## Building Locally
+---
 
-```bash
-pip install -r requirements.txt
-npm install -g mystmd
-myst build --html
-```
+### 📕 Latest Blog Posts
 
-The built site will be in `_build/html/`.
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-## Deployment
+➡️ [more blog posts...](https://charlih.com)
 
-### GitHub Pages (production)
+---
 
-Pushes to `main` automatically trigger the `deploy.yml` workflow, which builds the HTML site and deploys to GitHub Pages.
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-By default, `BASE_URL` is set to `/<repo-name>` so that asset paths work correctly when served at `username.github.io/repo-name/`. If you configure a custom domain (via `CNAME`), remove the `BASE_URL` environment variable from `deploy.yml` since the site will be served from the root.
+</details>
 
-### Netlify (PR previews)
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-Pull requests trigger the `build.yml` workflow, which builds a preview and posts the URL as a PR comment. Requires `NETLIFY_AUTH_TOKEN` and `NETLIFY_SITE_ID` secrets.
+  <img align="left" alt="charlihchen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=charlihchen&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-## GitHub Secrets
+</details>
 
-| Secret | Purpose |
-|--------|---------|
-| `NETLIFY_AUTH_TOKEN` | Netlify authentication for PR previews |
-| `NETLIFY_SITE_ID` | Netlify site ID for PR previews |
-
-## License
-
-[MIT](LICENSE)
+[website]: https://charlih.com
+[twitter]: https://twitter.com/charlihchen
+[youtube]: https://youtube.com/charlihchen
+[instagram]: https://instagram.com/charlihchen
+[linkedin]: https://linkedin.com/in/charlihchen
