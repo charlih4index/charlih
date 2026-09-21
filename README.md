@@ -17,14 +17,14 @@
 [![website](./img/youtube-light.svg)](https://youtube.com/charlihchen#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/charlihchen#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/charlihchen#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/charlihchen#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/charlih_chen#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/charlih_chen#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/charlihchen#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/charlihchen#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/charlihchen#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/charlihchen#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/charlih_chen#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/charlih_chen#gh-dark-mode-only)
 
 ### Languages and Tools:
 
