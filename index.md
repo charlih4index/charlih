@@ -48,7 +48,7 @@ Social - Instagram
 
 Social - Telegram
 
-Project - Indexbox (Scale up library index box for every websites as possible)
+Project - Indexbox (Scale up library index box for indexing every websites as possible)
 
 Project - Bopomo AKA Zhuyin
 
