@@ -47,7 +47,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://charlih.com)
+➡️ [more blog posts...](https://www.blogger.com/blog/posts/8451144?hl=en)
 
 ---
 
