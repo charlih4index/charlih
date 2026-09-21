@@ -8,11 +8,15 @@ subtitle: Subtitle
 Welcome to my _**Personal Website**_. This website contains my personal info..
 
 ---
-# Bookmarks Toolbar
+# Bookmarks Toolbar (Yahoo! category style)
 
-News | Blog | Events | KTV | EV | AI | Shop | Game | Dog | About | Social | Search | Menu
+News | Blog | Events | DIY | EV | AI | Shop | Game | Dog | About | Social | Search | Menu
 
 ## Sub-Bookmarks
+
+DIY - KTV
+
+DIY - PC
 
 EV - Tesla
 
@@ -21,6 +25,12 @@ AI - ChatGPT
 AI - OpenAI
 
 Shop - Costco
+
+Shop - Amazon
+
+Shop - Temu
+
+Shop - Shopee
 
 Game - Pokemon GO
 
