@@ -22,7 +22,7 @@ keywords:
 
 # Note for Building Websites with MyST Markdown on Github
 
-## Q1: The custom domain via CNAME is not working even updated the DNS on purchased rpovider?
+## Q1: The custom domain via CNAME is not working even updated the DNS on purchased povider?
 
 ## A1: 
 
