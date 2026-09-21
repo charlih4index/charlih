@@ -20,8 +20,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/charlih_chen#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/charlih_chen#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/charlihchen#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/charlihchen#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/charlih#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/charlih#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/charlih_chen#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/charlih_chen#gh-dark-mode-only)
