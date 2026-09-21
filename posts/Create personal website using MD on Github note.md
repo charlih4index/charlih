@@ -36,8 +36,8 @@ charlihchen/charlih/.gitHub/workflows/deploy.yml
 .....
       - name: Build HTML Assets
         # Remove BASE_URL if using a custom domain (CNAME)
-        **# env:
-         **# BASE_URL: /${{ github.event.repository.name }}
+        **#** env:
+         **#** BASE_URL: /${{ github.event.repository.name }}
         run: myst build --html
 .....
 ```
