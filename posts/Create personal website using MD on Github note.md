@@ -48,3 +48,6 @@ charlihchen/charlih/.gitHub/workflows/deploy.yml
 Have to enable the personal website repository on GitHub from "**Settings**" >> "**Pages**" >> select "**GitHub Actions**" under "Build and deployment" section
 
 "**Re-run jobs**" from deploy shows in red color. To fix all error and "**Re-run job**" till no error email to you.
+
+## Q3: Can you password protect a web page on GitHub?
+## A3:
