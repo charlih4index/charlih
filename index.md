@@ -36,33 +36,31 @@ Solution: <html><a href="pages/dog/dog.md" target="_blank">Dog</a></html>
 | AI   | OpenAI   |         |                      |
 | AI   | ChatGPT  |        |                      |
 
-Shop - Costco
+| Root | Children | Grand Children | Grand Grand Children |
+| ---- | ---------| ---------------| ---------------------|
+| Shop   | Costco   |         |                      |
+| Shop   | Amazon  |        |                      |
+| Shop   | Temu   |         |                      |
+| Shop   | Shopee  |        |                      |
 
-Shop - Amazon
+| Root | Children | Grand Children | Grand Grand Children |
+| ---- | ---------| ---------------| ---------------------|
+| Game   | Pokemon GO   |         |                      |
+| Game   | Microsoft Xbox  |        |                      |
+| Game   | Sony PlayStation   |         |                      |
+| Game   | Nintendo Switch  |        |                      |
 
-Shop - Temu
+| Root | Children | Grand Children | Grand Grand Children |
+| ---- | ---------| ---------------| ---------------------|
+| Social   | Facebook   |         |                      |
+| Social   | YouTube  |        |                      |
+| Social   | Instagram   |         |                      |
+| Social   | Telegram  |        |                      |
 
-Shop - Shopee
-
-Game - Pokemon GO
-
-Game - Microsoft Xbox
-
-Game - Sony PlayStation
-
-Game - Nintendo Switch
-
-Social - Facebook
-
-Social - YouTube
-
-Social - Instagram
-
-Social - Telegram
-
-Project - Indexbox (Scale up library index box for indexing every websites as possible)
-
-Project - Bopomo AKA Zhuyin
+| Root | Children | Grand Children | Grand Grand Children |
+| ---- | ---------| ---------------| ---------------------|
+| Project   | Indexbox (Scale up library index box for indexing every websites as possible)   |         |                      |
+| Project   | Bopomo AKA Zhuyin  |        |                      |
 
 ## Featured Projects
 
