@@ -20,7 +20,7 @@ exports:
 
 # DIY
 
-## KTV
+## [KTV](/ktv/ktv.md)
 
 ## PC
 
