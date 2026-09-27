@@ -30,7 +30,7 @@ exports:
 
 ### Tips
 
-#### Custumize sound
+#### [Custumize sound](https://teslalocksound.com/custom-chime)
 
 #### [Light Show](https://jet3c.com/lightshow/)
 
