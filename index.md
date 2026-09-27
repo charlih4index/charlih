@@ -100,7 +100,7 @@ Project - Bopomo AKA Zhuyin
 
 [![github](https://readmecodegen.vercel.app/api/social-icon?name=github)](https://github.com/charlihchen)
 [![twitter](https://readmecodegen.vercel.app/api/social-icon?name=twitter)](https://x.com/charlih_chen)
-![x](https://readmecodegen.vercel.app/api/social-icon?name=x&color=1da1f2&size=48)](https://x.com/charlih_chen)
+[![x](https://readmecodegen.vercel.app/api/social-icon?name=x&color=1da1f2&size=48)](https://x.com/charlih_chen)
 [![linkedin](https://readmecodegen.vercel.app/api/social-icon?name=linkedin)](https://www.linkedin.com/in/charlih)
 [![facebook](https://readmecodegen.vercel.app/api/social-icon?name=facebook)](https://www.facebook.com/charlih.chen/)
 [![instagram](https://readmecodegen.vercel.app/api/social-icon?name=instagram)](https://www.instagram.com/charlih_chen/)
