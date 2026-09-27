@@ -1,6 +1,6 @@
 ---
-title: Charlih Chen personal website
-subtitle: Personal Bookmarks
+title: Charlih Chen
+subtitle: Personal website
 ---
 
 ## Introduction
@@ -20,17 +20,21 @@ Solution: <html><a href="pages/dog/dog.md" target="_blank">Dog</a></html>
 
 ## Sub-Bookmarks (.md file...)
 
-DIY - KTV
+| Root | Children | Grand Children | Grand Grand Children |
+| ---- | ---------| ---------------| ---------------------|
+| DIY  | KTV      |                |                      |
+| DIY  | PC       |                |                      |
+| DIY  | Index    |                |                      |
 
-DIY - PC
+| Root | Children | Grand Children | Grand Grand Children |
+| ---- | ---------| ---------------| ---------------------|
+| EV   | Tesla    | Customize Sound | └─ Boombox (Lock Sound) |
+| EV   | Tesla    | Show           | └─ Light Show        |
 
-DIY - Index
-
-EV - Tesla
-
-AI - ChatGPT
-
-AI - OpenAI
+| Root | Children | Grand Children | Grand Grand Children |
+| ---- | ---------| ---------------| ---------------------|
+| AI   | OpenAI   |         |                      |
+| AI   | ChatGPT  |        |                      |
 
 Shop - Costco
 
