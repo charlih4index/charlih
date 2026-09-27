@@ -104,7 +104,7 @@ Project - Bopomo AKA Zhuyin
 ![linkedin](https://readmecodegen.vercel.app/api/social-icon?name=linkedin)
 ![facebook](https://readmecodegen.vercel.app/api/social-icon?name=facebook)
 ![instagram](https://readmecodegen.vercel.app/api/social-icon?name=instagram)
-![thread](https://readmecodegen.vercel.app/api/social-icon?name=thread)
+![threads](https://readmecodegen.vercel.app/api/social-icon?name=threads)
 ![youtube](https://readmecodegen.vercel.app/api/social-icon?name=youtube)
 ![tiktok](https://readmecodegen.vercel.app/api/social-icon?name=tiktok)
 ![discord](https://readmecodegen.vercel.app/api/social-icon?name=discord)
