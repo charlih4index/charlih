@@ -52,9 +52,9 @@ Solution: <html><a href="pages/dog/dog.md" target="_blank">Dog</a></html>
 
 | Root | Children | Grand Children | Grand Grand Children |
 | ---- | ---------| ---------------| ---------------------|
-| Social   | Facebook   |         |                      |
+| Social   | Facebook   |   Muse     |                      |
 | Social   | YouTube  |        |                      |
-| Social   | Instagram   |         |                      |
+| Social   | Instagram   |   Threads      |                      |
 | Social   | Telegram  |        |                      |
 
 | Root | Children | Grand Children | Grand Grand Children |
