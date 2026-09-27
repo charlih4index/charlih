@@ -24,7 +24,7 @@ exports:
 
 ## PC
 
-### 電腦卡拉OK系統
+### [電腦卡拉OK系統](https://www.facebook.com/groups/1915014728785932)
 
 ## Tesla
 
