@@ -23,3 +23,15 @@ exports:
 ## KTV
 
 ## PC
+
+### 電腦卡拉OK系統
+
+## Tesla
+
+### Tips
+
+#### Custumize sound
+
+#### [Light Show](https://jet3c.com/lightshow/)
+
+
