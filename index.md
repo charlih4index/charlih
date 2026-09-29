@@ -106,14 +106,14 @@ Solution: <html><a href="pages/dog/dog.md" target="_blank">Dog</a></html>
 
 :::{card}
 :link: /pages/others.md
-![jupyter](pages/images/others.jpg)
+![others](pages/images/others.jpg)
 +++
 **Others**
 :::
 
 :::{card}
 :link: /pages/project.md
-![python](pages/images/project.webp)
+![project](pages/images/project.webp)
 +++
 **Project**
 :::
