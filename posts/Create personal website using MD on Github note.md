@@ -57,5 +57,8 @@ Have to set the md file path under "toc:" section on myst.yml and then re-run th
 
 ```
 toc:
-
+    - title: A
+      children:
+        - file: A/A.md
+          hidden: true
 ```
