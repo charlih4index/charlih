@@ -58,6 +58,10 @@ project:
         - file: tags/github-pages.md
     - pattern: posts/*.md
       hidden: true
+    - title: A
+      children:
+        - file: A/A.md
+          hidden: true
 site:
   nav:
     - title: Internal blog page
