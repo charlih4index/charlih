@@ -120,7 +120,7 @@ Solution: <html><a href="pages/dog/dog.md" target="_blank">Dog</a></html>
 
 :::{card}
 :link: /pages/project.md
-![project](pages/images/project.webp)
+![project](pages/images/project.jpg)
 +++
 **Project**
 :::
