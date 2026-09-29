@@ -32,7 +32,7 @@ root-Z
 ---
 # Sub-Bookmarks Toolbar
 
-## (Yahoo! category style)(folder...)
+## (Yahoo! category style)(folder...should point to [A-Z])
 
 [News](/news) | [Blog](/blog) | [Event](/event) | [DIY](pages/ktv/ktv.md) | [EV](/EV) | [AI](/AI) | [Shop](/shop) | [Game](/game) | [Dog](pages/dog/dog.md){:target="_blank"} | [Project](/project) | [About](/about) | [Social](/social) | [Search](/search) | [Menu](/menu)
 
@@ -112,10 +112,10 @@ Solution: <html><a href="pages/dog/dog.md" target="_blank">Dog</a></html>
 :::
 
 :::{card}
-:link: https://python.org
-![python](pages/images/python.webp)
+:link: /pages/project.md
+![python](pages/images/project.webp)
 +++
-**Python**
+**Project**
 :::
 
 ::::
