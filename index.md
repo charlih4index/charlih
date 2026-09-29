@@ -8,7 +8,25 @@ subtitle: Personal website
 Welcome to my _**Personal Website**_. This website contains my personal info..
 
 ---
-# Bookmarks Toolbar (Yahoo! category style)(folder...)
+# Bookmark Indexer (A-Z)(Create work space as standardize for your personal website)
+
+| A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z |
+
+## Workspace AKA using folder to be documented
+
+root-A
+    |_About\about_me.md
+    |_Academy\academy.md
+root-B
+    |_Biography\bioraphy.md
+    .
+    .
+    .
+root-Z
+    |_Zodiac\zodiac.md
+
+---
+# Sub-Bookmarks Toolbar (Yahoo! category style)(folder...)
 
 [News](/news) | [Blog](/blog) | [Event](/event) | [DIY](pages/ktv/ktv.md) | [EV](/EV) | [AI](/AI) | [Shop](/shop) | [Game](/game) | [Dog](pages/dog/dog.md){:target="_blank"} | [Project](/project) | [About](/about) | [Social](/social) | [Search](/search) | [Menu](/menu)
 
