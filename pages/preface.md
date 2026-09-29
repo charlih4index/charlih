@@ -20,7 +20,7 @@ exports:
 
 # Preface
 
-Welcome to this personal website. This preface provides an overview of what you will learn.
+Welcome to this personal website. This preface is similar to prologue to provides an overview of what you will learn from the personal website(the book).
 
 ## Who This Personal Website Is For
 
@@ -28,8 +28,8 @@ This personal website is for anyone interested in the info. for Charlih Chen.
 
 ## How to Use This Personal website
 
-Each chapter builds on the previous one. Start from the beginning and work your way through.
+Each chapter/page(s) builds on the previous one. Start from the beginning and work your way through.
 
 ## Acknowledgements
 
-Thank you to everyone who contributed to this Personal website.
+Thank you to everyone who visting to this Personal website.
