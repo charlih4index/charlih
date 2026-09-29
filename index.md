@@ -17,16 +17,16 @@ Welcome to my _**Personal Website**_. This website contains my personal info..
 ## Workspace AKA using folder to be documented
 
 ```
-root-A
-    |_About\about_me.md
-    |_Academy\academy.md
-root-B
-    |_Biography\bioraphy.md
+root\A
+     |_About\about_me.md
+     |_Academy\academy.md
+root\B
+     |_Biography\bioraphy.md
     .
     .
     .
-root-Z
-    |_Zodiac\zodiac.md
+root\Z
+     |_Zodiac\zodiac.md
 ```
 
 ---
@@ -46,22 +46,26 @@ Solution: <html><a href="pages/dog/dog.md" target="_blank">Dog</a></html>
 
 | Root | Children | Grand Children | Grand Grand Children |
 | ---- | ---------| ---------------| ---------------------|
+| D    |          |                |                      |
 | DIY  | KTV      |                |                      |
 | DIY  | PC       |                |                      |
 | DIY  | Index    |                |                      |
 
 | Root | Children | Grand Children | Grand Grand Children |
 | ---- | ---------| ---------------| ---------------------|
+| E    |          |                |                      |
 | EV   | Tesla    | Customize Sound | └─ Boombox (Lock Sound) |
 | EV   | Tesla    | Show           | └─ Light Show        |
 
 | Root | Children | Grand Children | Grand Grand Children |
 | ---- | ---------| ---------------| ---------------------|
+| A |   |   |   |
 | AI   | OpenAI   |         |                      |
 | AI   | ChatGPT  |        |                      |
 
 | Root | Children | Grand Children | Grand Grand Children |
 | ---- | ---------| ---------------| ---------------------|
+| S |   |   |   |
 | Shop   | Costco   |         |                      |
 | Shop   | Amazon  |        |                      |
 | Shop   | Temu   |         |                      |
@@ -69,6 +73,7 @@ Solution: <html><a href="pages/dog/dog.md" target="_blank">Dog</a></html>
 
 | Root | Children | Grand Children | Grand Grand Children |
 | ---- | ---------| ---------------| ---------------------|
+| G |   |   |   |
 | Game   | Pokemon GO   |         |                      |
 | Game   | Microsoft Xbox  |        |                      |
 | Game   | Sony PlayStation   |         |                      |
@@ -76,6 +81,7 @@ Solution: <html><a href="pages/dog/dog.md" target="_blank">Dog</a></html>
 
 | Root | Children | Grand Children | Grand Grand Children |
 | ---- | ---------| ---------------| ---------------------|
+| S |   |   |   |
 | Social   | Facebook   |   Muse     |                      |
 | Social   | YouTube  |        |                      |
 | Social   | Instagram   |   Threads      |                      |
@@ -83,6 +89,7 @@ Solution: <html><a href="pages/dog/dog.md" target="_blank">Dog</a></html>
 
 | Root | Children | Grand Children | Grand Grand Children |
 | ---- | ---------| ---------------| ---------------------|
+| P |   |   |   |
 | Project   | Indexbox (Scale up library index box for indexing every websites as possible)   |         |                      |
 | Project   | Bopomo AKA Zhuyin  |        |                      |
 
