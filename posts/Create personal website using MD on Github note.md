@@ -48,3 +48,9 @@ charlihchen/charlih/.gitHub/workflows/deploy.yml
 Have to enable the personal website repository on GitHub from "**Settings**" >> "**Pages**" >> select "**GitHub Actions**" under "Build and deployment" section
 
 "**Re-run jobs**" from deploy shows in red color. To fix all error and "**Re-run job**" till no error email to you.
+
+
+## Q3: Why the new created md file display in plain text on browser?
+## A3:
+
+Have to set the md file path on myst.yml and then re-run the deploy task for GitHub.
