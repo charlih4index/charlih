@@ -218,7 +218,18 @@ Mellow.
 
 Amy.
 ```
+---
 
+## 腳白
+
+{numref}`photo-腳白` 腳白.
+
+```{figure} ../D/images/腳白.jpg
+:name: photo-腳白
+:alt: 腳白
+
+大虎.
+```
 ---
 
 ## 大虎
