@@ -168,20 +168,6 @@ He was a diligent survivor against aging.
 [Video for Mi-T, Tola, and Didi](https://youtu.be/ijgLXh9cJOk)
 
 ---
-
-## 小白
-
-{numref}`photo-小白` 小白.
-
-```{figure} ../L/images/小白.jpg
-:name: photo-小白
-:alt: 小白
-
-小白.
-```
-
----
-
 ## 小熊
 
 {numref}`photo-小熊` 小熊.
@@ -228,7 +214,7 @@ Amy.
 :name: photo-腳白
 :alt: 腳白
 
-大虎.
+腳白.
 ```
 ---
 
@@ -242,7 +228,18 @@ Amy.
 
 大虎.
 ```
+---
 
+## 小白
+
+{numref}`photo-小白` 小白.
+
+```{figure} ../L/images/小白.jpg
+:name: photo-小白
+:alt: 小白
+
+小白.
+```
 ---
 
 ## Hello
