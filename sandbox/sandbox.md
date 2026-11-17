@@ -64,6 +64,19 @@ Essays and theses serve different academic purposes. Essays are shorter and focu
 | mouse | cow | tiger | rabbit | dragon | snake | horse | sheep | monkey | rooster | dog | pig |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
+https://github.com/charlihchen/charlih/blob/main/Z/images/01Mouse.jpg
+https://github.com/charlihchen/charlih/blob/main/Z/images/02Cow.jpg
+https://github.com/charlihchen/charlih/blob/main/Z/images/03Tiger.jpg
+https://github.com/charlihchen/charlih/blob/main/Z/images/04Rabbit.jpg
+https://github.com/charlihchen/charlih/blob/main/Z/images/05Dragon.jpg
+https://github.com/charlihchen/charlih/blob/main/Z/images/06Snake.jpg
+https://github.com/charlihchen/charlih/blob/main/Z/images/07Horse.jpg
+https://github.com/charlihchen/charlih/blob/main/Z/images/08Sheep.jpg
+https://github.com/charlihchen/charlih/blob/main/Z/images/09Monkey.jpg
+https://github.com/charlihchen/charlih/blob/main/Z/images/10Rooster.jpg
+https://github.com/charlihchen/charlih/blob/main/Z/images/11Dog.jpg
+https://github.com/charlihchen/charlih/blob/main/Z/images/12Pig.jpg
+
 ## school
 
 - Primary school (國小) : 利澤國小
