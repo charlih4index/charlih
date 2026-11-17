@@ -60,8 +60,8 @@ Essays and theses serve different academic purposes. Essays are shorter and focu
 
 | :mouse: | :cow: | :tiger: | :rabbit: | :dragon: | :snake: | :horse: | :sheep: | :monkey: | :rooster: | :dog: | :pig: |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [鼠](../Z/images/01Mouse.jpg) | 牛 | 虎 | 兔 | 龍 | 蛇 | 馬 | 羊 | 猴 | 雞 | 狗 | 豬 |
-| mouse | cow | tiger | rabbit | dragon | snake | horse | sheep | monkey | rooster | dog | pig |
+| [鼠](../Z/images/01Mouse.jpg) | [牛](../Z/images/02Cow.jpg) | [虎](../Z/images/03Tiger.jpg) | [兔](../Z/images/04Rabbit.jpg) | [龍](../Z/images/05Dragon.jpg) | [蛇](../Z/images/06Snake.jpg) | [馬](../Z/images/07Horse.jpg) | [羊](../Z/images/08Sheep.jpg) | [猴](../Z/images/09Monkey.jpg) | [雞](../Z/images/10Rooster.jpg) | [狗](../Z/images/11Dog.jpg) | [豬](../Z/images/12Pig.jpg) |
+| [mouse](../Z/images/01Mouse.jpg) | [cow](../Z/images/02Cow.jpg) | [tiger](../Z/images/03Tiger.jpg) | [rabbit](../Z/images/04Rabbit.jpg) | [dragon](../Z/images/05Dragon.jpg) | [snake](../Z/images/06Snake.jpg) | [horse](../Z/images/07Horse.jpg) | [sheep](../Z/images/08Sheep.jpg) | [monkey](../Z/images/09Monkey.jpg) | [rooster](../Z/images/10Rooster.jpg) | [dog](../Z/images/11Dog.jpg) | [pig](../Z/images/12Pig.jpg) |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
 1. https://github.com/charlihchen/charlih/blob/main/Z/images/01Mouse.jpg
