@@ -22,7 +22,7 @@ description: A blog about anything, powered by MyST Markdown.
 
 ### 2026
 
-::::{grid} 1 1 2 2
+::::{grid} 1 3 3 3
 
 :::{card} Create personal website using MD on Github note: Personal website setup notes
 :link: /posts/create-personal-website-using-MD-on-Github-note
@@ -46,7 +46,7 @@ April 10, 2026 - A step-by-step tutorial on building a personal CV website with 
 
 ### 2025
 
-::::{grid} 1 1 2 2
+::::{grid} 1 2 2 2
 
 :::{card} A Reusable Template for Building Websites with MyST Markdown
 :link: /posts/myst-website-template

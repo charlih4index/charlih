@@ -20,7 +20,7 @@ exports:
 
 # C
 
-::::{grid} 1 1 2 2
+::::{grid} 1 3 3 3
 
 :::{card} Car
 :link: /c/car

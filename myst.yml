@@ -222,6 +222,58 @@ site:
           url: /p/protfolio         
         - title: Resume
           url: /r/resume
+    - title: A
+      url: /a/a
+    - title: B
+      url: /b/b
+    - title: C
+      url: /c/c
+    - title: D
+      url: /d/d
+    - title: E
+      url: /e/e
+    - title: F
+      url: /f/f
+    - title: G
+      url: /g/g
+    - title: H
+      url: /h/h
+    - title: I
+      url: /i/i
+    - title: J
+      url: /j/j
+    - title: K
+      url: /k/k
+    - title: L
+      url: /l/l
+    - title: M
+      url: /m/m
+    - title: N
+      url: /n/n
+    - title: O
+      url: /o/o
+    - title: P
+      url: /p/p
+    - title: Q
+      url: /q/q
+    - title: R
+      url: /r/r
+    - title: S
+      url: /s/s
+    - title: T
+      url: /t/t
+    - title: U
+      url: /u/u
+    - title: V
+      url: /v/v
+    - title: W
+      url: /w/w
+    - title: X
+      url: /x/x
+    - title: Y
+      url: /y/y
+    - title: Z
+      url: /z/z
   options:
     logo: logo.png
     logo_dark: logo.png

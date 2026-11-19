@@ -9,7 +9,7 @@ Posts tagged with **MyST Markdown**.
 
 ## Posts
 
-::::{grid} 1 1 2 2
+::::{grid} 1 2 2 2
 
 :::{card} Write Journal Articles with MyST Markdown: Auto-Generate PDFs and Websites
 :link: /posts/myst-article-template

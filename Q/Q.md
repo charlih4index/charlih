@@ -20,7 +20,7 @@ exports:
 
 # Q
 
-::::{grid} 1 1 2 2
+::::{grid} 1 2 2 2
 
 :::{card} Q&A
 :link: /q/q-and-a

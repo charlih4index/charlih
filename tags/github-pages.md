@@ -9,7 +9,7 @@ Posts tagged with **GitHub Pages**.
 
 ## Posts
 
-::::{grid} 1 1 2 2
+::::{grid} 1 2 2 2
 
 :::{card} Build a Professional CV Website with Auto PDF Generation Using MyST Markdown
 :link: /posts/myst-cv-website

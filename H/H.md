@@ -20,7 +20,7 @@ exports:
 
 # H
 
-::::{grid} 1 1 2 2
+::::{grid} 1 2 2 2
 
 :::{card} Helpdesk
 :link: /h/helpdesk

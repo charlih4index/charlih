@@ -20,7 +20,7 @@ exports:
 
 # Y
 
-::::{grid} 1 1 2 2
+::::{grid} 1 2 2 2
 
 :::{card} YouTube
 :link: /Y/Youtube.md

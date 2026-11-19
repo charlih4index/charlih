@@ -20,7 +20,7 @@ exports:
 
 # U
 
-::::{grid} 1 1 2 2
+::::{grid} 1 2 2 2
 
 :::{card} UUU
 :header: ![UUU](images/uuu.jpg)

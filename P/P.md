@@ -20,7 +20,7 @@ exports:
 
 # P
 
-::::{grid} 1 1 2 2
+::::{grid} 1 2 2 2
 
 :::{card} Project
 :link: /p/project

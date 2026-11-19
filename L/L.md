@@ -20,7 +20,7 @@ exports:
 
 # L
 
-::::{grid} 1 1 2 2
+::::{grid} 1 2 2 2
 
 :::{card} Language
 :link: /l/language

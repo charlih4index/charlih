@@ -108,6 +108,7 @@ ENV/
 # MyST / Jupyter Book build outputs
 _build/
 pages-clean/
+.DS_Store
 
 # Translation image directories (images are copied from pages/images/ at build time)
 pages-*/images/

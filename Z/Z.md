@@ -20,7 +20,7 @@ exports:
 
 # Z
 
-::::{grid} 1 1 2 2
+::::{grid} 1 2 2 2
 
 :::{card} Zodiac
 :link: /z/zodiac

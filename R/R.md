@@ -20,7 +20,7 @@ exports:
 
 # R
 
-::::{grid} 1 1 2 2
+::::{grid} 1 2 2 2
 
 :::{card} Resume
 :link: /r/resume

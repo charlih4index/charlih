@@ -20,7 +20,7 @@ exports:
 
 # G
 
-::::{grid} 1 1 2 2
+::::{grid} 1 2 2 2
 
 :::{card} Game
 :link: /g/game

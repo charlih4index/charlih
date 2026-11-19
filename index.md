@@ -5,6 +5,11 @@ subtitle: Personal website
 
 ![](logo.png "Charlih Chen logo")
 
+<div class="hallmark-actions">
+  <a class="hallmark-btn" href="/p/project/">Projects</a>
+  <a class="hallmark-btn hallmark-btn--quiet" href="/n/networking/">Contact</a>
+</div>
+
 ## Introduction AKA. Preface
 
 Welcome to my _**Personal Website**_. This website contains my personal info..
@@ -16,7 +21,34 @@ Welcome to my _**Personal Website**_. This website contains my personal info..
 
 ### Let your "personalize info" fall into chapter from A to Z instead of 1, 2, 3..... like a book as chapter 1, chapter 2 etc.
 
-| [A](A/A.md)] | [B](B/B.md)] | [C](C/C.md) | [D](D/D.md) | [E](E/E.md) | [F](F/F.md) | [G](G/G.md) | [H](H/H.md) | [I](I/I.md) | [J](J/J.md) | [K](K/K.md) | [L](L/L.md) | [M](M/M.md) | [N](N/N.md) | [O](O/O.md) | [P](/P/P.md) | [Q](Q/Q.md) | [R](R/R.md) | [S](S/S.md) | [T](T/T.md) | [U](U/U.md) | [V](V/V.md) | [W](W/W.md) | [X](X/X.md) | [Y](Y/Y.md) | [Z](Z/Z.md) |
+<div class="az-specimen">
+  <a href="A/A.md">A</a>
+  <a href="B/B.md">B</a>
+  <a href="C/C.md">C</a>
+  <a href="D/D.md">D</a>
+  <a href="E/E.md">E</a>
+  <a href="F/F.md">F</a>
+  <a href="G/G.md">G</a>
+  <a href="H/H.md">H</a>
+  <a href="I/I.md">I</a>
+  <a href="J/J.md">J</a>
+  <a href="K/K.md">K</a>
+  <a href="L/L.md">L</a>
+  <a href="M/M.md">M</a>
+  <a href="N/N.md">N</a>
+  <a href="O/O.md">O</a>
+  <a href="/P/P.md">P</a>
+  <a href="Q/Q.md">Q</a>
+  <a href="R/R.md">R</a>
+  <a href="S/S.md">S</a>
+  <a href="T/T.md">T</a>
+  <a href="U/U.md">U</a>
+  <a href="V/V.md">V</a>
+  <a href="W/W.md">W</a>
+  <a href="X/X.md">X</a>
+  <a href="Y/Y.md">Y</a>
+  <a href="Z/Z.md">Z</a>
+</div>
 
 ## Workspace AKA using folder to be documented
 
@@ -41,7 +73,7 @@ root\Z
 | Catgory#1 | Catgory#2 | Catgory#3 | Catgory#4 | Catgory#5 | Catgory#6 | Catgory#7 | Catgory#8 | Catgory#9 |
 |-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 [News](N/News.md) | [Blog](/blog) | [Event](E/Event.md) | [DIY](D/DIY.md) | [EV](E/EV.md) | [AI](A/AI.md) | [Shop](S/Shop.md) | [Game](G/Game.md) | [Dog](D/Dog.md) |
-| [Project](P/Project.md) | [About](A/About.md) | [Social](S/Social.md) | [Search](S/Search.md) | [Menu](M/Menu.md) | [Tennis](T/Tennis.md) | [Tang-Poems<br>(唐詩)](T/Tang-Poems.md) | [Others](O/Others.md) |
+| [Project](P/Project.md) | [About](A/About.md) | [Social](S/Social.md) | [Search](S/Search.md) | [Menu](M/Menu.md) | [Tennis](T/Tennis.md) | [Tang-Poems(唐詩)](T/Tang-Poems.md) | [Others](O/Others.md) |
 
 ## Sub-Bookmarks (.md file...)
 

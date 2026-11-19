@@ -20,7 +20,7 @@ exports:
 
 # M
 
-::::{grid} 1 1 2 2
+::::{grid} 1 2 2 2
 
 :::{card} Menu
 :link: /m/menu

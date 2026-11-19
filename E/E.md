@@ -20,7 +20,7 @@ exports:
 
 # E
 
-::::{grid} 1 1 2 2
+::::{grid} 1 3 3 3
 
 :::{card} EV
 :link: /e/ev

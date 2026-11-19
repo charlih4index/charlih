@@ -20,7 +20,7 @@ exports:
 
 # K
 
-::::{grid} 1 1 2 2
+::::{grid} 1 2 2 2
 
 :::{card} KTV
 :link: /k/ktv

@@ -20,7 +20,7 @@ exports:
 
 # O
 
-::::{grid} 1 1 2 2
+::::{grid} 1 2 2 2
 
 :::{card} Others
 :link: /o/others
