@@ -29,6 +29,14 @@ exports:
 - [2026 KFF FASCA 跳 三太子舞步](https://www.youtube.com/shorts/MSentY4LBJo)
 <!-- YOUTUBE:END -->
 
+## Top 5 viewed videos
+
+1. [中華民國頌-費玉清](https://youtube.com/shorts/kjNCHI81CUk)
+2. [別粘了 #KTV文盲 #调侃](https://youtube.com/shorts/cI8qsuat0Zc) => [林憶蓮+林俊傑-江南 (DIY KTV)](https://youtu.be/aljggaOHjW0)
+3. [BBC Earth TV program parade Wonderful world of puppies Make it a beautiful day](https://youtu.be/s13kzGw_a_Q)
+4. [Mariah Carey Without You (HD DIY KTV)](https://youtu.be/V1LyvQAc2YY)
+5. [Quirky Pop-Make It a Beautiful Day.mkv (DIY KTV)](https://youtu.be/_sS7iI3mlg4)
+
 ## URL
 
 [Charlih Chen Youtube channel](https://www.youtube.com/c/CharlihChen)
