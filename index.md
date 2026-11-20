@@ -8,6 +8,7 @@ subtitle: Personal website
 <div class="hallmark-actions">
   <a class="hallmark-btn" href="/p/project/">Projects</a>
   <a class="hallmark-btn hallmark-btn--quiet" href="/n/networking/">Contact</a>
+  <a class="hallmark-btn hallmark-btn--quiet" href="mailto:charlih_chen@hotmail.com">Email</a>
 </div>
 
 ## Introduction AKA. Preface

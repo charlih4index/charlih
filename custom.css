@@ -145,6 +145,29 @@ article.article-grid > picture:first-of-type img { width: 100%; aspect-ratio: 1;
 .hallmark-btn--quiet .link-text { color: var(--color-ink) !important; }
 .hallmark-btn--quiet:hover .link-text, .hallmark-btn--quiet.link:hover .link-text { color: var(--color-mark) !important; }
 
+/* ── Home hero: logo in the gap between the title and the subtitle ────── */
+:root { --hero-logo-size: 160px; }
+/* MyST puts the author e-mail icon in the byline, where the action buttons
+   overlap it. The e-mail is a proper action button now, so hide that icon. */
+article.article-grid:has(.hallmark-actions) .myst-fm-author-icon-link { display: none !important; }
+article.article-grid > img[alt="Charlih Chen logo"] {
+  grid-row: 1; align-self: start; justify-self: center; z-index: 1;
+  width: auto; height: var(--hero-logo-size);
+  margin: calc(36px + clamp(3rem, 7.5vw, 7rem) * 0.9 + var(--space-lg)) 0 0 !important;
+}
+article.article-grid:has(.hallmark-actions) .myst-fm-block-subtitle {
+  margin-top: calc(var(--hero-logo-size) + var(--space-lg) + var(--space-md)) !important;
+}
+@media (max-width: 60rem) {
+  :root { --hero-logo-size: 96px; }
+  article.article-grid > img[alt="Charlih Chen logo"] {
+    margin: calc(var(--space-xl) + clamp(3rem, 7.5vw, 7rem) * 0.9 + var(--space-md)) 0 0 !important;
+  }
+  article.article-grid:has(.hallmark-actions) .myst-fm-block-subtitle {
+    margin-top: calc(var(--hero-logo-size) + var(--space-md) + var(--space-sm)) !important;
+  }
+}
+
 /* ── Headings and rhythm ───────────────────────────────────────────────── */
 article.article-grid h2, article.article-grid h3, article.article-grid h4 { color: var(--color-ink); text-align: start; }
 article.article-grid h2 { font-size: var(--text-section) !important; margin-top: var(--section-gap) !important; margin-bottom: var(--space-lg) !important; }
