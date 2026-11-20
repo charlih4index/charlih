@@ -24,8 +24,9 @@ exports:
 
 ## 2025
 
-[3IATLAS, IVE-Supernova Love (超新星之愛)](https://studio.youtube.com/video/i8BeD9YQ1FY/edit)
-
+- [3IATLAS, IVE-Supernova Love (超新星之愛)](https://youtube.com/shorts/i8BeD9YQ1FY)
+- [別粘了 #KTV文盲 #调侃](https://youtube.com/shorts/cI8qsuat0Zc)
+- 
 ## 2013
 
 [DIY KTV](k/ktv)
