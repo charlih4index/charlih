@@ -37,6 +37,14 @@ exports:
 4. [Mariah Carey Without You (HD DIY KTV)](https://youtu.be/V1LyvQAc2YY)
 5. [Quirky Pop-Make It a Beautiful Day.mkv (DIY KTV)](https://youtu.be/_sS7iI3mlg4)
 
+| No | YouTube Cover | Video | Uploaded Date | Viewed | Promote MV |
+|:---|:---|:---|:---|:---|:---|
+| 1 | <a href="https://www.youtube.com/watch?v=kjNCHI81CUk"><img src="https://img.youtube.com/vi/kjNCHI81CUk.jpg" alt="YouTube Video" width="100" height="50"></a> | [中華民國頌-費玉清](https://youtube.com/shorts/kjNCHI81CUk) | Sep 14, 2026 | 94 | |
+| 2 | <a href="https://www.youtube.com/watch?v=cI8qsuat0Zc"><img src="https://img.youtube.com/vi/cI8qsuat0Zc.jpg" alt="YouTube Video" width="100" height="50"></a> | [別粘了 #KTV文盲 #调侃](https://youtube.com/shorts/cI8qsuat0Zc) | Sep 14, 2026 | 94 | [林憶蓮+林俊傑-江南 (DIY KTV)](https://youtu.be/aljggaOHjW0) |
+| 3 | <a href="https://www.youtube.com/watch?v=s13kzGw_a_Q"><img src="https://img.youtube.com/vi/s13kzGw_a_Q.jpg" alt="YouTube Video" width="100" height="50"></a> | [BBC Earth TV program parade Wonderful world of puppies Make it a beautiful day](https://youtu.be/s13kzGw_a_Q) | Sep 14, 2026 | 94 | |
+| 4 | <a href="https://www.youtube.com/watch?v=V1LyvQAc2YY"><img src="https://img.youtube.com/vi/V1LyvQAc2YY.jpg" alt="YouTube Video" width="100" height="50"></a> | [Mariah Carey Without You (HD DIY KTV)](https://youtu.be/V1LyvQAc2YY) | Sep 14, 2026 | 94 | |
+| 5 | <a href="https://www.youtube.com/watch?v=_sS7iI3mlg4"><img src="https://img.youtube.com/vi/_sS7iI3mlg4.jpg" alt="YouTube Video" width="100" height="50"></a> | [Quirky Pop-Make It a Beautiful Day.mkv (DIY KTV)](https://youtu.be/_sS7iI3mlg4) | Sep 14, 2026 | 94 | |
+
 ## My YouTube URL
 
 [Charlih Chen Youtube channel](https://www.youtube.com/c/CharlihChen)
