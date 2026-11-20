@@ -16,7 +16,7 @@ subtitle: Personal website
 Welcome to my _**Personal Website**_. This website contains my personal info..
 
 ---
-# Bookmark Indexer 
+# Indexer AKA. Bookmark
 
 ## (A-Z)(Create work space as standardize for your personal website)
 
@@ -67,7 +67,7 @@ root\Z
 ```
 
 ---
-# Sub-Bookmarks Toolbar
+# Category AKA. Sub-Bookmarks Toolbar
 
 ## (Yahoo! category style)(they should point to [A-Z] workspace)
 
