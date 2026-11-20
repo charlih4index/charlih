@@ -121,7 +121,7 @@ article.article-grid > .myst-fm-block { grid-column: 1 / 9; grid-row: 1; align-s
 article.article-grid:not(:has(.hallmark-actions)) > .myst-fm-block { min-height: 0 !important; padding: var(--space-xl) 0 var(--space-lg) !important; justify-content: flex-start; }
 article.article-grid:not(:has(> picture)) > .myst-fm-block { grid-column: 1 / 9; }
 article.article-grid > picture:first-of-type { grid-column: 9 / 13; grid-row: 1; align-self: end; margin: 0; }
-article.article-grid > picture:first-of-type img { width: 100%; aspect-ratio: 1; object-fit: contain; filter: grayscale(1) contrast(1.12); mix-blend-mode: multiply; }
+article.article-grid > picture:first-of-type img { width: 100%; aspect-ratio: 1; object-fit: contain; }
 .myst-fm-block-header { display: none !important; }
 .myst-fm-block-title { font-family: var(--font-display) !important; font-weight: 700 !important; font-size: clamp(3rem, 7.5vw, 7rem) !important; line-height: 0.9 !important; letter-spacing: -0.045em !important; color: var(--color-ink) !important; max-width: 14ch; text-align: start; }
 .myst-fm-block-subtitle { font-family: var(--font-body) !important; font-size: var(--text-lead) !important; color: var(--color-muted) !important; margin-top: var(--space-md) !important; }
@@ -185,7 +185,7 @@ article.article-grid td a { white-space: normal; }
 article.article-grid .myst-grid { gap: var(--gap-columns) !important; margin-top: var(--space-2xl) !important; }
 article.article-grid .myst-card { border: 0 !important; border-radius: 0 !important; box-shadow: none !important; background: transparent !important; padding: 0 !important; }
 article.article-grid .myst-card-header, article.article-grid .myst-card-footer { border: 0 !important; background: transparent !important; padding: 0 !important; }
-article.article-grid .myst-card-header img { width: 100% !important; aspect-ratio: 4 / 3; object-fit: cover; filter: grayscale(1) contrast(1.12); mix-blend-mode: multiply; border: 0 !important; border-radius: 0 !important; margin: 0 !important; }
+article.article-grid .myst-card-header img { width: 100% !important; aspect-ratio: 4 / 3; object-fit: cover; border: 0 !important; border-radius: 0 !important; margin: 0 !important; }
 .myst-card-title, .myst-card-footer { display: block !important; text-align: start !important; white-space: normal !important; padding: var(--space-md) 0 0 !important; }
 .myst-card-title a, .myst-card-footer a { font-family: var(--font-display) !important; font-size: var(--text-title) !important; font-weight: 700 !important; line-height: 1.2 !important; color: var(--color-ink) !important; text-align: start !important; white-space: normal !important; }
 .myst-card-title a:hover, .myst-card-footer a:hover { color: var(--color-mark); }
