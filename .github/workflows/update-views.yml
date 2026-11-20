@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Update view counts in K/KTV.md
+      - name: Update view counts in K/KTV.md and Y/Youtube.md
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python3 scripts/update_views.py
@@ -21,6 +21,6 @@ jobs:
         run: |
           git config user.name "views-bot"
           git config user.email "views-bot@users.noreply.github.com"
-          git add K/KTV.md
+          git add K/KTV.md Y/Youtube.md
           git diff --cached --quiet || git commit -m "Update YouTube view counts"
           git push
