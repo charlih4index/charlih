@@ -24,7 +24,7 @@ exports:
 
 ## 2025
 
-- [3IATLAS, IVE-Supernova Love (超新星之愛)](https://youtube.com/shorts/i8BeD9YQ1FY) => [IVE-Supernova Love](ttps://youtu.be/fyk6vjwI3wc?si=p3q4yr-FVH5c_-DC)
+- [3IATLAS, IVE-Supernova Love (超新星之愛)](https://youtube.com/shorts/i8BeD9YQ1FY) => [IVE-Supernova Love](https://youtu.be/fyk6vjwI3wc?si=p3q4yr-FVH5c_-DC)
 - [別粘了 #KTV文盲 #调侃](https://youtube.com/shorts/cI8qsuat0Zc) => [林憶蓮+林俊傑-江南 (DIY KTV)](https://youtu.be/aljggaOHjW0)
   
 ## 2013
