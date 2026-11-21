@@ -9,7 +9,7 @@ kernelspec:
   language: python
   name: python3
 title: X
-abstract: ""
+abstract: "X, formerly as Twitter"
 authors:
   - name: Charlih Chen
 exports:
@@ -22,9 +22,12 @@ exports:
 
 ::::{grid} 1 2 2 2
 
-:::{card} XXX
-:header: ![XXX](images/xxx.jpg)
-XXX.
+:::{card} X, formerly as Twitter
+:link: /x/x
+:header: ![X](images/twitter2x-logo.jpg)
+X aka. Twitter for charlih.com.
+
+Read more →
 
 :::
 
