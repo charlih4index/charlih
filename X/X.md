@@ -25,7 +25,7 @@ exports:
 :::{card} X, formerly as Twitter
 :link: /x/x
 :header: ![X](images/twitter2x-logo.jpg)
-X aka. Twitter for charlih.com.
+X aka. Twitter for charlih Chen.
 
 Read more →
 
