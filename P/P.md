@@ -49,13 +49,4 @@ Read more →
 
 :::
 
-:::{card} QR code
-:link: /q/qr-code
-:header: ![QR code](images/qr-code.jpg)
-QR code for charlih.com.
-
-Read more →
-
-:::
-
 ::::
